@@ -5,13 +5,13 @@ import Header from './components/Header/Header'
 import Sidebar from './components/Sidebar/Sidebar';
 import Feed from './components/Feed/Feed';
 import Widgets from './components/Widgets/Widgets';
-import Login from './components/Login/Login';
+import Login from './components/Login/Login';  
 import { useSelector } from "react-redux";
 
 
 function App() {
 
-  const user = useSelector(selectUser)
+  const user = useSelector(selectUser) 
 
   return (
     <div>
