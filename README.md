@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-Author of this app continues working on it.
+Authors of this app continues working on it.
