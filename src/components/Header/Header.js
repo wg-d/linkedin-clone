@@ -11,8 +11,6 @@ import { useDispatch } from "react-redux";
 import { logout } from "../../features/userSlice";
 import { auth } from "../../firebase";
 
-
-
 function Header() {
   
   const dispatch = useDispatch()
@@ -21,6 +19,8 @@ function Header() {
       dispatch(logout())
       auth.signOut();
   };
+
+  console.log("logoutofapp", logoutOfApp);
 
   return (
     <div className="header">
@@ -41,7 +41,7 @@ function Header() {
           <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
           <HeaderOption Icon={ChatIcon} title="Messaging" />
           <HeaderOption Icon={NotificationsIcon} title="Notifications" />
-          <HeaderOption avatar={true} title="Log Out" onClick={logoutOfApp}/>
+          <HeaderOption avatar={true} title="Log Out" onClick={ console.log(200)}/>
       </div>
     </div>
   );

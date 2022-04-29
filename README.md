@@ -2,6 +2,11 @@
 
 This project is clone of linkedin.
 
+## Live Demo
+
+https://linktin.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
