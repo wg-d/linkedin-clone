@@ -2,11 +2,6 @@
 
 This project is clone of linkedin.
 
-## Live Demo
-
-https://linktin.netlify.app/
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
