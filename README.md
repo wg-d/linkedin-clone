@@ -40,9 +40,6 @@
         <li>
           <a href="#prerequisites">Prerequisites</a>
         </li>
-        <li>
-          <a href="#related-project">Related Project</a>
-        </li>
       </ol>
     </li>
 
@@ -74,47 +71,20 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone These 2 Repos (Backend and Frontend)
 ```sh
-https://github.com/dwinovic/telegram-clone
+https://github.com/wg-d/linkedin-clone
 ```
 2. Go To Folder Repo
 ```sh
-cd telegram-clone
+cd linkedin-clone
 ```
 3. Install Module
 ```sh
 npm install
 ```
-4. Add .env file at root folder project, and add following
-```sh
-REACT_APP_API_SERVER=[BACKEND_API]
-REACT_APP_HOST_SOCKET=[SOCKET_IO_HOST_API]
-```
-5. Start website
+4. Start website
 ```sh
 npm start
 ```
-
-### Related Project
-* [`Frontend Telegram Clone`](https://github.com/dwinovic/telegram-clone)
-* [`Backend Telegram Clone`](https://github.com/dwinovic/backend-telegram)
-
-## Screenshots
-
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954307/Telegram%20Clone/Preview_TeleClone_-_01_nbx8kq.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954327/Telegram%20Clone/Preview_TeleClone_-_02_btm7ag.png">
-</div>
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954329/Telegram%20Clone/Preview_TeleClone_-_03_xwvrc1.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954331/Telegram%20Clone/Preview_TeleClone_-_04_fjvj2w.png">
-</div>
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954333/Telegram%20Clone/Preview_TeleClone_-_05_k9g9dg.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954475/Telegram%20Clone/Preview_TeleClone_-_06_qhch05.png">
-</div>
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954338/Telegram%20Clone/Preview_TeleClone_-_07_pg5xkd.png">   
-</div>
 
 ## Contact
 My Email : wonderdream.dev@gmail.com
