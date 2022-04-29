@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { selectUser } from "./features/userSlice";
 import './App.css';
 import Header from './components/Header/Header'
