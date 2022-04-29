@@ -7,43 +7,129 @@ This project is clone of linkedin.
 https://linktin.netlify.app/
 
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/dwinovic/telegram-clone">
+    <img src="https://res.cloudinary.com/dnv-images/image/upload/v1631893565/Telegram%20Clone/Frame_1_jnfh3u.svg" alt="Logo" width="500" height="180">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center">Telegram Clone </h3>
 
-### `npm start`
+  <p align="center">
+    Telegram clone is a web site-based two-way <br /> real-time chat communication application. 
+    <br />
+    <a href="https://github.com/dwinovic/telegram-clone"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://teleclone.vercel.app/">View Demo</a>
+    ·
+    <a href="https://github.com/dwinovic/telegram-clone">Report Bug</a>
+    ·
+    <a href="https://github.com/dwinovic/telegram-clone">Request Feature</a>
+  </p>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+        <ol>
+            <li>
+                <a href="#build-with">Build With</a>
+            </li>
+        </ol>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ol>
+        <li>
+          <a href="#installation">Installation</a>
+        </li>
+        <li>
+          <a href="#prerequisites">Prerequisites</a>
+        </li>
+        <li>
+          <a href="#related-project">Related Project</a>
+        </li>
+      </ol>
+    </li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+<b>Telegram Clone</b> is a web site-based two-way real-time chat communication application. Has features including two-way private messaging between users, searching user lists, viewing profiles between users, and updating user data.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Build With
+* [JavaScript](https://www.javascript.com/)
+* [React Js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Styled Components](https://styled-components.com/)
+* [Formik](https://formik.org/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [Socket IO](https://socket.io/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+This is an example of how to list things you need to use the software and how to install them.
+* [Node Js](https://nodejs.org/en/download/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone These 2 Repos (Backend and Frontend)
+```sh
+https://github.com/dwinovic/telegram-clone
+```
+2. Go To Folder Repo
+```sh
+cd telegram-clone
+```
+3. Install Module
+```sh
+npm install
+```
+4. Add .env file at root folder project, and add following
+```sh
+REACT_APP_API_SERVER=[BACKEND_API]
+REACT_APP_HOST_SOCKET=[SOCKET_IO_HOST_API]
+```
+5. Start website
+```sh
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Related Project
+* [`Frontend Telegram Clone`](https://github.com/dwinovic/telegram-clone)
+* [`Backend Telegram Clone`](https://github.com/dwinovic/backend-telegram)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
 
-## Learn More
+<div align="center">
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954307/Telegram%20Clone/Preview_TeleClone_-_01_nbx8kq.png">   
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954327/Telegram%20Clone/Preview_TeleClone_-_02_btm7ag.png">
+</div>
+<div align="center">
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954329/Telegram%20Clone/Preview_TeleClone_-_03_xwvrc1.png">   
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954331/Telegram%20Clone/Preview_TeleClone_-_04_fjvj2w.png">
+</div>
+<div align="center">
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954333/Telegram%20Clone/Preview_TeleClone_-_05_k9g9dg.png">   
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954475/Telegram%20Clone/Preview_TeleClone_-_06_qhch05.png">
+</div>
+<div align="center">
+    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954338/Telegram%20Clone/Preview_TeleClone_-_07_pg5xkd.png">   
+</div>
 
-Author of this app continues working on it.
+## Contact
+My Email : novidwicahya19@gmail.com
+
+Project Link: [https://github.com/dwinovic/telegram-clone](https://github.com/dwinovic/telegram-clone)
