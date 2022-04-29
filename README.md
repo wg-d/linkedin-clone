@@ -1,27 +1,21 @@
-# Linkedin Clone App
-
-This project is clone of linkedin.
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/dwinovic/telegram-clone">
-    <img src="https://res.cloudinary.com/dnv-images/image/upload/v1631893565/Telegram%20Clone/Frame_1_jnfh3u.svg" alt="Logo" width="500" height="180">
-  </a>
-
-  <h3 align="center">Telegram Clone </h3>
+  
+  <h3 align="center">Linkedin Clone </h3>
 
   <p align="center">
-    Telegram clone is a web site-based two-way <br /> real-time chat communication application. 
+    LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps.  
     <br />
-    <a href="https://github.com/dwinovic/telegram-clone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wg-d/linkedin-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://teleclone.vercel.app/">View Demo</a>
+    <a href="https://linktin.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/dwinovic/telegram-clone">Report Bug</a>
+    <a href="https://github.com/wg-d/linkedin-clone>Report Bug</a>
     ·
-    <a href="https://github.com/dwinovic/telegram-clone">Request Feature</a>
+    <a href="https://github.com/wg-d/linkedin-clone">Request Feature</a>
   </p>
 </p>
 
@@ -51,15 +45,13 @@ This project is clone of linkedin.
         </li>
       </ol>
     </li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#contact">Contact</a></li>
+
   </ol>
 </details>
 
 ## About The Project
 
-<b>Telegram Clone</b> is a web site-based two-way real-time chat communication application. Has features including two-way private messaging between users, searching user lists, viewing profiles between users, and updating user data.
-
+<b>LinkedIn</b> is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs.
 
 
 ### Build With
@@ -125,6 +117,6 @@ npm start
 </div>
 
 ## Contact
-My Email : novidwicahya19@gmail.com
+My Email : wonderdream.dev@gmail.com
 
-Project Link: [https://github.com/dwinovic/telegram-clone](https://github.com/dwinovic/telegram-clone)
+Project Link: [https://github.com/wg-d/linkedin-clone](https://github.com/wg-d/linkedin-clone)
